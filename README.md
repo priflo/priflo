@@ -42,8 +42,6 @@ A wiki of solutions for the online game "My Candy Love". This project will be de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priflo&layout=compact&theme=radical)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=priflo&theme=react-dark)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=priflo&color=blueviolet)
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about development.
