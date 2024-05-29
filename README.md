@@ -23,7 +23,7 @@ A wiki of solutions for the online game "My Candy Love". This project will be de
 
 ## Languages
 
-- **French:** C2 (Native)
+- **:flag_fr: French:** C2 (Native)
 - **Spanish:** C1 (Proficient)
 - **English:** B2 (Advanced)
 - **Italian:** B1 (Intermediate)
