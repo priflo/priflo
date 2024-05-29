@@ -1,4 +1,4 @@
-# Hi there, I'm Florane Dickx! 👋
+# Hi there, I'm Florane! 👋
 
 ## About Me
 
