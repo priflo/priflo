@@ -11,7 +11,7 @@ I turned to development to find new ways to express my creativity. Captivated by
 
 ## Projects
 
-### [Flo Solutions]
+### Flo Solutions
 A wiki of solutions for the online game "My Candy Love". This project will be deployed soon. Stay tuned!
 
 ## Education & Certifications
